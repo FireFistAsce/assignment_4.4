@@ -1,0 +1,16 @@
+* I_F.CURRENCY.CLEARING.PARAM Created 0 at 12:00AM by r16/ROSHANONE
+*      PREFIX[CURRENCY.CLEARING]
+                EQU CURRENCY.CLEARING.DE.MAPPING.ID TO 1,   CurrencyClearingParam_DeMappingId TO 1,
+                        CURRENCY.CLEARING.INPUT.POS TO 2,   CurrencyClearingParam_InputPos TO 2,
+                              CURRENCY.CLEARING.TAG TO 3,   CurrencyClearingParam_Tag TO 3,
+                        CURRENCY.CLEARING.LOCAL.REF TO 4,   CurrencyClearingParam_LocalRef TO 4,
+                         CURRENCY.CLEARING.OVERRIDE TO 5,   CurrencyClearingParam_Override TO 5,
+                    CURRENCY.CLEARING.RECORD.STATUS TO 6,   CurrencyClearingParam_RecordStatus TO 6,
+                          CURRENCY.CLEARING.CURR.NO TO 7,   CurrencyClearingParam_CurrNo TO 7,
+                         CURRENCY.CLEARING.INPUTTER TO 8,   CurrencyClearingParam_Inputter TO 8,
+                        CURRENCY.CLEARING.DATE.TIME TO 9,   CurrencyClearingParam_DateTime TO 9,
+                       CURRENCY.CLEARING.AUTHORISER TO 10,  CurrencyClearingParam_Authoriser TO 10,
+                          CURRENCY.CLEARING.CO.CODE TO 11,  CurrencyClearingParam_CoCode TO 11,
+                        CURRENCY.CLEARING.DEPT.CODE TO 12,  CurrencyClearingParam_DeptCode TO 12,
+                     CURRENCY.CLEARING.AUDITOR.CODE TO 13,  CurrencyClearingParam_AuditorCode TO 13,
+                  CURRENCY.CLEARING.AUDIT.DATE.TIME TO 14,  CurrencyClearingParam_AuditDateTime TO 14
